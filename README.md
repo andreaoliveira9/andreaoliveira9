@@ -1,4 +1,7 @@
-### Hi there 👋
+<a href="https://github.com/andreaoliveira9">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreaoliveira9&theme=tokyonight&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreaoliveira9&theme=tokyonight&layout=compact" />
+</a>
 
 <!--
 **andreaoliveira9/andreaoliveira9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
