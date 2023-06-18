@@ -1,4 +1,4 @@
-## André Oliveira 
+## André Oliveira - Computer Science and Engineering Student
 
 <div align="center">
   <a href="https://github.com/andreaoliveira9">
