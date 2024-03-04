@@ -4,10 +4,9 @@
   <a href="https://github.com/andreaoliveira9">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreaoliveira9&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreaoliveira9&layout=compact&langs_count=7&theme=react"/>
+    
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vasco-faria&show_icons=true&count_private=true&hide_border=true&title_color=1976d2&icon_color=ffa500&text_color=c9d1d9&bg_color=0d1117" alt="vasco-faria"  />
 
-  <img align="center" color="black" src="https://github-readme-stats.vercel.app/api?username=vasco-faria&show_icons=true&count_private=true&hide_border=true&title_color=1976d2&icon_color=ffa500&text_color=c9d1d9&bg_color=0d1117" alt="vasco-faria" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vasco-faria&show_icons=true&count_private=true&hide_border=true&title_color=8B0000&icon_color=8B0000&text_color=c9d1d9&bg_color=0d1117&theme=transparent" alt="vasco-faria" />
 </div>
   
   ##
