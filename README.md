@@ -1,4 +1,4 @@
-# André Oliveira - MSc in Software Engineering Student
+# André Oliveira - MSc in Software Engineering
 
 ## 🌐 Socials
 
