@@ -18,9 +18,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🔝 Top Contributed Repo
-<div align="center">
 ![](https://github-contributor-stats.vercel.app/api?username=andreaoliveira9&limit=5&theme=radical&combine_all_yearly_contributions=true)
-</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=andreaoliveira9&icon=0&color=12)](https://visitcount.itsvg.in)
