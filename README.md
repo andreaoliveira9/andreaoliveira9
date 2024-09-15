@@ -26,11 +26,11 @@
 
 </div>
 
-## 📊 GitHub Stats
+## 📊 LeetCode Stats
 
 <div align="center">
   
-![LeetCode Stats](https://leetcode.card.workers.dev/andreaoliveira9?theme=dark&font=&extension=null)
+![LeetCode Stats](https://leetcode.card.workers.dev/andreaoliveira9?theme=nord&font=&extension=null)
 
 </div>
 
