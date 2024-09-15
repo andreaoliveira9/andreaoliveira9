@@ -26,6 +26,14 @@
 
 </div>
 
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![LeetCode Stats](https://leetcode.card.workers.dev/andreaoliveira9?theme=dark&font=&extension=null)
+
+</div>
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
