@@ -26,14 +26,6 @@
 
 </div>
 
-## 🔥 LeetCode Stats
-
-<div align="center">
-  
-![LeetCode Stats](https://leetcode.card.workers.dev/andreaoliveira9?theme=dark&font=&extension=null)
-
-</div>
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=andreaoliveira9&icon=0&color=12)](https://visitcount.itsvg.in)
