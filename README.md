@@ -22,7 +22,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=andreaoliveira9&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=andreaoliveira9&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=andreaoliveira9&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=andreaoliveira9&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact&langs_count=12&hide=Jupyter%20Notebook,TeX)
 
 </div>
 
